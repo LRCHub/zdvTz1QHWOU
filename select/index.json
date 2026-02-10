@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "恋をしちゃいました！",
+  "base_artist": "タンポポ",
+  "createdAt": "2026-02-10T02:55:50.352651Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "恋をしちゃいました! (instrumental)",
+      "artist": "タンポポ",
+      "has_synced": true,
+      "path": "select/01_恋をしちゃいました!_(instrumental)_タンポポ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "恋をしちゃいました!",
+      "artist": "タンポポ",
+      "has_synced": true,
+      "path": "select/02_恋をしちゃいました!_タンポポ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "恋をしちゃいました!",
+      "artist": "スマイレージ",
+      "has_synced": false,
+      "path": "select/03_恋をしちゃいました!_スマイレージ.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "恋をしちゃいました!",
+      "artist": "タンポポ",
+      "has_synced": false,
+      "path": "select/pl_01_恋をしちゃいました!_タンポポ.txt"
+    }
+  ]
+}
